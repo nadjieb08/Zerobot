@@ -52,4 +52,4 @@
 
 
 
-#thanks dah pake SC ini
+# thanks dah pake SC ini
