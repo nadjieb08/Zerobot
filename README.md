@@ -17,7 +17,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/nadjieb08/Zerobot/edit/main/README.md
+> git clone https://github.com/nadjieb08/Zerobot
 > cd games-wabot
 > npm install
 ```
@@ -34,7 +34,7 @@
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/nadjieb08/Zerobot/edit/main/README.md
+> git clone https://github.com/nadjieb08/Zerobot/
 > cd games-wabot
 > npm install
 ```
@@ -53,3 +53,4 @@
 
 
 # thanks dah pake SC ini
+* Dan thanks juga buat Iyanxyz
